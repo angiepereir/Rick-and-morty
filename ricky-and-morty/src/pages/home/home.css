@@ -1,0 +1,22 @@
+/* Estilos para el contenedor */
+.contenedor {
+  background-image: url("https://www.thewynwoodtimes.com/wp-content/uploads/2021/01/Rick-y-Morty-Temporada-1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover; 
+  height: 1800px;
+
+  }
+  
+ 
+   .titulo {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 1px #ccc;
+    margin: 0;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+   
